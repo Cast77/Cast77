@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Thiago Castilho
 
-**Desenvolvedor Frontend Júnior**
+**Desenvolvedor Frontend**
   
-Me chamo Thiago Castilho Gomes, sou natural de Minas Gerais. Concluí o ensino médio e atualmente estou no último período do curso de Publicidade e Propaganda. Paralelamente, venho estudando programação com foco em transição de carreira para a área de tecnologia. Estou sempre em busca de novos conhecimentos e metas que me impulsionem a crescer profissionalmente. Sou movido por desafios e pela vontade constante de evoluir.
+Me chamo Thiago Castilho , sou natural de Minas Gerais. Concluí o ensino médio e atualmente estou no último período do curso de Publicidade e Propaganda. Paralelamente, venho estudando programação com foco em transição de carreira para a área de tecnologia. Estou sempre em busca de novos conhecimentos e metas que me impulsionem a crescer profissionalmente. Sou movido por desafios e pela vontade constante de evoluir.
 
 <p>
     <a href="https://github.com/https://github.com/Cast77">
